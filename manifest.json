@@ -1,0 +1,16 @@
+{
+  "name": "Meet Assistants Hider",
+  "description": "Hide/Show the assistants in a meeting",
+  "version": "0.1",
+  "background": { "scripts": ["background.js"] },
+  "content_scripts": [{
+    "matches": ["*://meet.google.com/*"],
+    "js": ["content.js"]
+  }],
+  "browser_action": {
+      "name": "Hide!",
+      "default_title": "Hide!",
+      "default_icon": "meetAssistantsHider_hide.png"
+  },
+  "manifest_version": 2
+}
