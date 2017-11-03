@@ -6,6 +6,7 @@ Chrome Extension to hide/show the assistants in a google meet
 * Click on `Download ZIP`
 * Extract the files in a folder
 * Type `chrome://extensions/` in Google Chrome
+* Select the `Developer mode` option in the upper right corner
 * Click on `Load unpacked extensions...` and select the folder
 
 ## Usage
