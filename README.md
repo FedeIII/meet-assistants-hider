@@ -1,5 +1,5 @@
-# meet-assistants-hider
-Hide/Show the assistants in a google meet
+# Meet Assistants Hider Chrome Extension
+Chrome Extension to hide/show the assistants in a google meet
 
 ## Installation
 * Up on the right click on the green `Clone or download` button
